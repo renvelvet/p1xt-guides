@@ -25,7 +25,7 @@ Study each item thoroughly. Type the code. Understand how it works. Yes, the who
 * Code all CSS yourself
 * Use Bootstrap 
 ----    
-- [ ]  Official Docs: [Vue.js Guide](https://vuejs.org/v2/guide/) - All sections in Essentials
+- [x]  Official Docs: [Vue.js Guide](https://vuejs.org/v2/guide/) - All sections in Essentials
 - [ ]  Official Docs: [Flexbox](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox)
 - [ ]  Project: Pick a template from [here](https://freebiesbug.com/psd-freebies/website-template/), [here](http://www.free-css.com/free-css-templates) or [here](http://www.os-templates.com/free-website-templates) and implement an Vue application with it as your inspiration (do not use its assets)
 - [ ]  Official Docs: [Vue DevTools](https://github.com/vuejs/vue-devtools)
